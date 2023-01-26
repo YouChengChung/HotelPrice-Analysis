@@ -1,1 +1,1 @@
-# HoterlPrice-Analysis
+# HotelPrice-Analysis
